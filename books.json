@@ -1,7 +1,7 @@
 {
   "gitbook": "2.0.0",
-  "title": "WDI Fundamentals",
   "language": "en",
+  "title": "",
   "description": null,
   "plugins": [
     "richquotes",
@@ -9,13 +9,15 @@
     "ga"
   ],
   "pluginsConfig": {
-    "richquotes" : {
+    // https://github.com/erixtekila/gitbook-plugin-richquotes
+    "richquotes" : { 
         "todos": true
     },
+    // https://github.com/GitbookIO/plugin-ga
     "ga": {
       "token": ""
     }
- },
+  },
   "styles": {
     "website": "styles/website.css"
   },

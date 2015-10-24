@@ -1,4 +1,4 @@
-# Gitbook Starter Template
+# Introduction
 
 First install the Gitbook CLI.
 
